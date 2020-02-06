@@ -12,7 +12,7 @@ svMisc, lubridate
 
 Please also check, that the R-Version you use is >= 3.6.0
 
-To install the package properly please download the file SimBaCo_1.0.0.tar.gz and save it in a directory of your choice. The directory you have chosen will be called path_to in the following.
+To install the package properly please download the zip file of the package via the clone SimBaCo_1.0.0.tar.gz and save it in a directory of your choice. The directory you have chosen will be called path_to in the following.
 
 Then enter the following command in R-Studio: install.packages("path_to/SimBaCo_1.0.0.tar.gz", repos = NULL, type = "source").
 
