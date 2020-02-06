@@ -12,3 +12,10 @@ svMisc, lubridate
 
 Please also check, that the R-Version you use is >= 3.6.0
 
+If you have further questions about the package or the included functions, please send an E-mail to:
+
+Lucas.Wirbka@med.uni-heidelberg.de
+
+Best regards, 
+
+Lucas Wirbka
