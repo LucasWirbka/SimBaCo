@@ -4,7 +4,7 @@ Similarity Based Cohort Generation
 
 Dear user, 
 
-if you want to runt the R-package SimBaCo properly, please check that the following packages are installed on your System: 
+if you want to run the R-package SimBaCo properly, please check that the following packages are installed on your System: 
 
 cluster, comorbidity, varhandle, dplyr, formattable, ggplot2, feather, purrr, data.table, shiny, rlist, RColorBrewer, gridExtra, 
 forcats, furrr, foreach, doParallel, stringr, parallel, snow, survival, survminer, pROC, factoextra, readr, Rtsne, iterators, UBL,
